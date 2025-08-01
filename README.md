@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Henrique!</h1>
 
 <p align="center">
-  <img src="" alt="Eu" width="200"/>
+  <img src="https://github.com/henriquelima777/henriquelima777/blob/main/assets/IMG_2586.JPEG" alt="Eu" width="200"/>
 </p>
 
 ---
