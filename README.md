@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Henrique!</h1>
 
 <p align="center">
-  <img src="https://github.com/Petinelson/Petinelson/blob/main/assets/eu.png" alt="Eu" width="200"/>
+  <img src="" alt="Eu" width="200"/>
 </p>
 
 ---
@@ -25,9 +25,7 @@ Acredito no poder do **conhecimento, da prática e da colaboração**, e utilizo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Construct_3_Logo.svg" alt="Construct" width="40" height="40"/>
 </p>
